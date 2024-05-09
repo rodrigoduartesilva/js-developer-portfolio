@@ -8,7 +8,7 @@
     "country": "Brasil"
   },
   "phone": "+55 (21) 99999-9999",
-  "email": "email@demail.com",
+  "email": "email@email.com",
   "skills": {
     "hardSkills": [
       {
@@ -27,7 +27,10 @@
     "softSkills": [
       "Comunicação",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Flexibilidade",
+      "Liderança",
+      "Organização",
+      "Trabalho em equipe"
     ]
   },
   "idiomas": [
