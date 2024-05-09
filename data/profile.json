@@ -1,13 +1,14 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
+  "name": "Rodrigo Duarte",
+  "photo": "https://avatars.githubusercontent.com/u/47402277?v=4",
+  "job": "Desevolvedor Front-end Junior",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "country": "Brasil"
   },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "phone": "+55 (21) 99999-9999",
+  "email": "email@demail.com",
   "skills": {
     "hardSkills": [
       {
