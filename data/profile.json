@@ -13,19 +13,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/js.svg"
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/546d8c0371e9b1f6b12e8a3d8074749ee0fec3a1/assets/img/icons/tools/js.svg"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/java.svg"
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/546d8c0371e9b1f6b12e8a3d8074749ee0fec3a1/assets/img/icons/tools/java.svg"
       },
       {
         "name": "NodeJS",
-        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/546d8c0371e9b1f6b12e8a3d8074749ee0fec3a1/assets/img/icons/tools/nodejs.svg"
       },
       {
         "name": "Git e GitHub",
-        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/git.svg"
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/546d8c0371e9b1f6b12e8a3d8074749ee0fec3a1/assets/img/icons/tools/git.svg"
       }
     ],
     "softSkills": [
