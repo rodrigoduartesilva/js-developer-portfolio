@@ -12,16 +12,20 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/js.svg"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/java.svg"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/nodejs.svg"
+      },
+      {
+        "name": "Git e GitHub",
+        "logo": "https://raw.githubusercontent.com/rodrigoduartesilva/js-developer-portfolio/ed344fa5e584fd7d9a21f32d7cc225364c4fd937/assets/img/icons/tools/git.svg"
       }
     ],
     "softSkills": [
