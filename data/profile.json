@@ -59,15 +59,16 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Programador Junior",
+      "period": "2021 - 2024",
+      "description": "Texto de teste."
+    },
+    {
+      "name": "Programador Pleno",
+      "period": "2024 - atual",
+      "description": "Texto de teste."
     }
   ]
 }
